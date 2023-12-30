@@ -1,0 +1,8 @@
+.NotFound-text {
+    min-height: 100vh;
+    font-size: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}

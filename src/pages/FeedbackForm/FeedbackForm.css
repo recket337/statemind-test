@@ -1,0 +1,31 @@
+.FeedbackForm {
+    margin: 40px 0 40px 40px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 500px;
+}
+
+.FeedbackForm-headline {
+    font-weight: 400;
+    margin: 0;
+}
+
+.FeedbackForm-submit {
+    width: 200px;
+    height: 35px;
+    border-radius: 15px;
+    font-size: 15px;
+    align-self: center;
+    cursor: pointer;
+    border: none;
+}
+
+.FeedbackForm-textarea {
+    resize: none;
+    width: 500px;
+    height: 200px;
+    padding: 5px;
+    border-radius: 7px;
+}
